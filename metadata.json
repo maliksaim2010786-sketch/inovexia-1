@@ -1,0 +1,6 @@
+{
+  "name": "INOVEXIA",
+  "description": "Building Intelligent Digital Solutions For The Future - AI, Automation, and Digital Transformation solutions for businesses.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
